@@ -1,3 +1,3 @@
 # react-pra
 
-##Reactの学習用レポジトリ
+## Reactの学習用レポジトリ
